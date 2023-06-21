@@ -1,4 +1,5 @@
 hello world
 them 1 dòng vào file1
 them 1 dong nua vao
-them dong 4 2
+them dong 4 1
+
