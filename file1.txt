@@ -1,1 +1,2 @@
 hello world
+them 1 dòng vào file1
