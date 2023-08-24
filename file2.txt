@@ -1,3 +1,4 @@
 them 1 dong vao file 2
-them 1 dong nua 
+them 1 dong
 them vao day
+them 1 dong nua vao day
